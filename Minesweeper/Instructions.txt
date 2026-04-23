@@ -1,0 +1,23 @@
+MINESWEEPER - HOW TO PLAY
+
+Choose a difficulty to start the game.
+
+The board is a grid of hidden cells (#).
+Your goal is to reveal all safe cells without hitting a mine.
+
+HOW TO PLAY:
+- Enter a move as: row column (example: 2 3)
+- This reveals the selected cell
+
+WHAT HAPPENS:
+- If you hit a mine, you lose
+- Numbers show how many mines are nearby
+- Empty cells (0) reveal surrounding areas
+
+COMMANDS:
+u = undo
+r = redo
+q = quit
+
+WIN:
+In order to win you must reveal all non-mine cells. Good Luck!
